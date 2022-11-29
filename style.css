@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    background-color:whitesmoke;
+    height: 100vh;
+}
+body{
+    overflow-x: hidden;
+    
+
+}
+.work{
+    background-color: white;
+  /*  height: 52vh ;*/
+    width: 28rem;
+    border-radius: 12px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    
+}
+.create{
+    background-color: rgb(58, 107, 80);
+    
+}
+.circle{
+    margin-left: 5rem;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    
+    
+}
+
+.space{
+    width: 25rem;
+    border: 1px solid rgb(189, 182, 182);
+    outline-color: rgb(77, 144, 243);
+    outline-width: 0.5px;
+}
+
+
+
+.fact{
+    margin-top: 60px;
+    
+    
+    text-align: center;
+}
+.text{
+    text-align: justify;
+}
+
+.but1{
+    width: 25rem;
+    border-radius: 5px;
+    transition: 1s;
+}
+
